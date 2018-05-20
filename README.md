@@ -1,0 +1,2 @@
+# Avg-Life-Expectancy-vs-Population-Growth
+This is just a basic analysis of the relationship between the average life expectancy of countries and there population growth. I decided to look into this after reading "Abundance: The Future is Better Than You Think" by Peter Diamandis. Peter argues that one of the biggest ways to stop population growth is through better healthcare. The point of this exercise was to analyze some basic data and see if that is actually the case.
